@@ -45,9 +45,8 @@ Content-Type: text/html
 
 Example partial server response (JSON):
 
-```![2](https://github.com/user-attachments/assets/69b00011-7975-4a1f-830d-a9ede4c23746)
+![2](https://github.com/user-attachments/assets/7082d91f-95a3-4d3e-b28d-1b09219d3b27)
 
-{![3](https://github.com/user-attachments/assets/09adcc50-d018-4bb9-ab80-39184799d74e)
 
   "file_name": "pngtoxss.png",
   "file_size": 11803,
