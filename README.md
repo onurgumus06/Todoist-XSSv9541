@@ -54,12 +54,7 @@ Example partial server response (JSON):
   "image": "https://.../as/file.png",
   "resource_type": "image"
 }
-```![3](https://github.com/user-attachments/assets/7ab7477a-e6a7-464f-ae0e-82111b3526d6)
+
+![3](https://github.com/user-attachments/assets/49082c83-63a0-41da-8370-2d62c8b55d92)
 
 
-
-
-## Impact
-- Stored XSS → session hijacking, cookie theft
-- Displaying malicious content to users (phishing-like attacks)
-- Unauthorized in-application actions via injected JavaScript
