@@ -20,7 +20,7 @@ When PNG files uploaded to Todoist comments are sent with the Content-Type heade
 
 2. Send the file with multipart/form-data to the upload endpoint (e.g., POST /asl/v1/uploads or /api/v1/uploads). Crucially, set the form-data part's `Content-Type` to `text/html`.
 
-3. The server accepts the file and returns a URL (for example on CloudFront or files.todoist.com).
+3. The server accepts the file and returns a URL (CloudFront).
 
 4. When the uploaded file is embedded in a comment or the returned URL is opened in a browser, the JavaScript executes (Stored XSS).
 
