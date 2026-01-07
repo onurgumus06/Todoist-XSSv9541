@@ -44,7 +44,9 @@ Content-Type: text/html
 ```
 
 Example partial server response (JSON):
-```
+
+```![2](https://github.com/user-attachments/assets/69b00011-7975-4a1f-830d-a9ede4c23746)
+
 {![3](https://github.com/user-attachments/assets/09adcc50-d018-4bb9-ab80-39184799d74e)
 
   "file_name": "pngtoxss.png",
@@ -54,6 +56,7 @@ Example partial server response (JSON):
   "resource_type": "image"
 }
 ```
+![3](https://github.com/user-attachments/assets/d2d4071d-414b-4fd0-b5a5-7a5b4e6f5664)
 
 ## Impact
 - Stored XSS → session hijacking, cookie theft
