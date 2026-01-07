@@ -54,8 +54,9 @@ Example partial server response (JSON):
   "image": "https://.../as/file.png",
   "resource_type": "image"
 }
-```
-![3](https://github.com/user-attachments/assets/f4002ad1-9d44-44b4-a029-b270bbff39d6)
+```![3](https://github.com/user-attachments/assets/7ab7477a-e6a7-464f-ae0e-82111b3526d6)
+
+
 
 
 ## Impact
