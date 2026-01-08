@@ -25,7 +25,7 @@ When PNG files uploaded to Todoist comments are sent with the Content-Type heade
 4. When the uploaded file is embedded in a comment or the returned URL is opened in a browser, the JavaScript executes (Stored XSS).
 
 ## Example HTTP Request (PoC format)
-![1](https://github.com/user-attachments/assets/933b636c-298f-4e1e-be65-215ef227b9c0)
+![1](https://github.com/user-attachments/assets/ac555e02-f332-49d7-8ad0-1ba049105cb1)
 
 ```![2](https://github.com/user-attachments/assets/7a3f0b3a-f834-4746-9eef-da855526d07b)
 
